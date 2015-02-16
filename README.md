@@ -1,0 +1,2 @@
+# cordova-medic-firefoxos
+Instructions
