@@ -14,12 +14,12 @@ build_firefoxos.js       | master/src/build/makers
 
 Some error if you run: $ buildbot start master
 
-*exceptions.DeprecationWarning: buildbot.steps.shell.SetProperty was deprecated in Buildbot 0.8.8: It has been renamed to SetPropertyFromCommand
+*exceptions.DeprecationWarning: buildbot.steps.shell.SetProperty was deprecated in Buildbot 0.8.8: It has been renamed to SetPropertyFromCommand*
 
-exceptions.DeprecationWarning: buildbot.steps.source.SVN was deprecated in Buildbot 0.8.9: The slave-side SVN step is deprecated and will be removed in a future version.  Please switch to the corresponding master-side step.
+*exceptions.DeprecationWarning: buildbot.steps.source.SVN was deprecated in Buildbot 0.8.9: The slave-side SVN step is deprecated and will be removed in a future version.  Please switch to the corresponding master-side step.*
 
-exceptions.DeprecationWarning: buildbot.steps.source.Git was deprecated in Buildbot 0.8.9: The slave-side Git step is deprecated and will be removed in a future version.  Please switch to the corresponding master-side step
-*
+*exceptions.DeprecationWarning: buildbot.steps.source.Git was deprecated in Buildbot 0.8.9: The slave-side Git step is deprecated and will be removed in a future version.  Please switch to the corresponding master-side step*
+
 
 master_buildbot0810.cfg corrects these issues
 
