@@ -1,5 +1,9 @@
-# cordova-medic-firefoxos
+# cordova-medic-firefoxos (in progress....)
 Instructions for implement FirefoxOS in cordova-medic
+
+    $ buildbot start master
+    $ buildslave create-slave slave_firefoxos localhost:9889 cordova-firefoxos-slave pass
+
 
 Files                    | Directories
 ------------------------ | -------------
