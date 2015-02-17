@@ -1,18 +1,24 @@
 # cordova-medic-firefoxos (in progress....)
 Instructions for implement FirefoxOS in cordova-medic
 
-    $ buildbot start master
-    $ buildslave create-slave slave_firefoxos localhost:9889 cordova-firefoxos-slave pass
+Files                                          | Directories
+---------------------------------------------- | -------------
+master_buildbot0810.cfg (rename to master.cfg) | master/
+cordova.conf                                   | master/
+build_firefoxos.js                             | master/
+cordova-config.json                            | master/
+cordova-repos.json                             | master/
+build_firefoxos.js                             | master/src/build/makers
 
+###Instructions:
 
-Files                    | Directories
------------------------- | -------------
-master_buildbot0810.cfg  | master/
-cordova.conf             | master/
-build_firefoxos.js       | master/
-cordova-config.json      | master/
-cordova-repos.json       | master/
-build_firefoxos.js       | master/src/build/makers
+* $ buildbot create-master master
+* Copy files according to the table
+* $ buildslave create-slave slave_firefoxos localhost:9889 cordova-firefoxos-slave pass
+* $ buildbot start master
+* $ buildslave start slave_firefoxos
+* $ tail -f master/twistd.log
+
 
 # BuildBot 0.8.10
 
