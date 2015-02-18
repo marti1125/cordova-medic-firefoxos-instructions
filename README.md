@@ -14,6 +14,7 @@ build_firefoxos.js                             | master/src/build/makers
 
 * $ buildbot create-master master
 * Copy files according to the table
+* Copy all content of cordova-medic to master/
 * $ buildslave create-slave slave_firefoxos localhost:9889 cordova-firefoxos-slave pass
 * $ buildbot start master
 * $ buildslave start slave_firefoxos
