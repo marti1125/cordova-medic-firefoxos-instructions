@@ -2,7 +2,7 @@ var path = require ('path');
 var shell = require('shelljs');
 var buildinfo = require('./buildinfo');
 var config = require('./config');
-var android  = require('./src/build/makers/android');
+var firefoxos  = require('./src/build/makers/firefoxos');
 var argv = require('optimist').argv;
 var testcheck = require('./testchecker');
 
@@ -23,7 +23,7 @@ buildinfo('FirefoxOS', BRANCH, function (error, sha ) {
     if(error) {
         TEST_OK=false;
     } else {
-        android(output_location, sha,'', config.app.entry, config.couchdb, function(err){
+        firefoxos(output_location, sha,'', config.app.entry, config.couchdb, function(err){
             if(err) {
                 console.log('FirefoxOS test prepare failed');
                 TEST_OK=false;
