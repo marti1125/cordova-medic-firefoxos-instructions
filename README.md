@@ -1,14 +1,14 @@
 # cordova-medic-firefoxos (in progress....)
 Instructions for implement FirefoxOS in cordova-medic
 
-Files                                          | Directories
----------------------------------------------- | -------------
-master_buildbot0810.cfg                        | master/
-cordova.conf                                   | master/
-build_firefoxos.js                             | master/
-cordova-config.json                            | master/
-cordova-repos.json                             | master/
-build_firefoxos.js                             | master/src/build/makers
+Files                    | Directories
+-------------------------| -------------
+master_buildbot0810.cfg  | master/
+cordova.conf             | master/
+build_firefoxos.js       | master/
+cordova-config.json      | master/
+cordova-repos.json       | master/
+build_firefoxos.js       | master/src/build/makers
 
 ###Instructions:
 
