@@ -17,8 +17,7 @@ cordova-repos.json       | master/
 * virtualenv --no-site-packages sandbox
 * source sandbox/bin/activate
 * $ buildbot create-master master
-* cd sandbox
-* Inside master/ $ git clone https://github.com/marti1125/cordova-medic-firefoxos-instructions.git
+* $ git clone https://github.com/marti1125/cordova-medic-firefoxos-instructions.git
 * mv cordova-medic-firefoxos-instructions/* master
 * $ buildslave create-slave slave_firefoxos localhost:9889 cordova-firefoxos-slave pass
 * $ buildbot start master
