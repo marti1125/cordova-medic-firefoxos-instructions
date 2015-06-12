@@ -105,31 +105,31 @@
 },
 {
     "title" : "TESTMASTER",
-    "repo" : "https://git-wip-us.apache.org/repos/asf/cordova-medic.git",
+    "repo" : "https://github.com/marti1125/cordova-medic-firefoxos.git",
     "category" : "CORDOVA-TESTMASTER",
     "release" : "master",
     "current" : "master"
 },{
     "title" : "COHO",
-    "repo" : "https://git-wip-us.apache.org/repos/asf/cordova-coho.git",
+    "repo" : "https://github.com/apache/cordova-coho.git",
     "category" : "CORDOVA-COHO",
     "release" : "master",
     "current" : "master"
 },{
     "title" : "CLI",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-cli.git",
+    "repo"  : "https://github.com/apache/cordova-cli.git",
     "category" : "CORDOVA-CLI",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "PLUGMAN",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugman.git",
+    "repo"  : "https://github.com/apache/cordova-plugman.git",
     "category" : "CORDOVA-PLUGMAN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "CORDOVA-LIB",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-lib.git",
+    "repo"  : "https://github.com/apache/cordova-lib.git",
     "category" : "CORDOVA-CLI",
     "release" : "master",
     "current" :"master"
@@ -137,169 +137,157 @@
 ,
 {
     "title" : "JS",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-js.git",
+    "repo"  : "https://github.com/apache/cordova-js.git",
     "category" : "CORDOVA-JS",
     "release" : "RELEASE",
     "current" :"master"
 },{
     "title" : "ANDROID",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-android.git",
+    "repo"  : "https://github.com/apache/cordova-android.git",
     "category" : "CORDOVA-ANDROID",
     "release" : "RELEASE",
     "current" :"master"
 },{
     "title" : "IOS",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-ios.git",
+    "repo"  : "https://github.com/apache/cordova-ios.git",
     "category" : "CORDOVA-IOS",
     "release" : "RELEASE",
     "current" :"master"
 },{
     "title" : "WP8",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-wp8.git",
+    "repo"  : "https://github.com/apache/cordova-wp8.git",
     "category" : "CORDOVA-WP8",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "WINDOWS",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-windows.git",
+    "repo"  : "https://github.com/apache/cordova-windows.git",
     "category" : "CORDOVA-WINDOWS",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "BLACKBERRY",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-blackberry.git",
+    "repo"  : "https://github.com/apache/cordova-blackberry.git",
     "category" : "CORDOVA-BLACKBERRY",
     "release" : "RELEASE",
     "current" :"master"
 },{
     "title" : "FIREFOXOS",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf?p=cordova-firefoxos.git",
+    "repo"  : "https://github.com/apache/cordova-firefoxos.git",
     "category" : "CORDOVA-FIREFOXOS",
     "release" : "RELEASE",
     "current" :"master"
 },{
     "title" : "MSPEC",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-mobile-spec.git",
+    "repo"  : "https://github.com/marti1125/cordova-mobile-spec.git",
     "category" : "CORDOVA-MSPEC",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "TESTFRAMEWORK",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-test-framework.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-test-framework.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "BATTERY",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-battery-status.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-battery-status.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "CAMERA",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-camera.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-camera.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "CONSOLE",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-console.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-console.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "CONTACTS",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-contacts.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-contacts.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "DEVICE",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-device.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-device.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "DEVICEMOTION",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-device-motion.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-device-motion.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "DEVICEORIENTATION",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-device-orientation.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-device-orientation.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "DIALOGS",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-dialogs.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-dialogs.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "FILE",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-file.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-file.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "FILETRANSFER",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-file-transfer.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-file-transfer.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "GEOLOCATION",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-geolocation.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-geolocation.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "GLOBALIZATION",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-globalization.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-globalization.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "INAPPBROWSER",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-inappbrowser.git",
-    "category" : "CORDOVA-PLUGIN",
-    "release" : "master",
-    "current" :"master"
-},{
-    "title" : "MEDIA",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-media.git",
-    "category" : "CORDOVA-PLUGIN",
-    "release" : "master",
-    "current" :"master"
-},{
-    "title" : "MEDIACAPTURE",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-media-capture.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-inappbrowser.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "NETWORKINFO",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-network-information.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-network-information.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "SPLASHSCREEN",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-splashscreen.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-splashscreen.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "STATUSBAR",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-statusbar.git",
+    "repo"  : "hhttps://github.com/apache/cordova-plugin-statusbar.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
 },{
     "title" : "VIBRATION",
-    "repo"  : "https://git-wip-us.apache.org/repos/asf/cordova-plugin-vibration.git",
+    "repo"  : "https://github.com/apache/cordova-plugin-vibration.git",
     "category" : "CORDOVA-PLUGIN",
     "release" : "master",
     "current" :"master"
